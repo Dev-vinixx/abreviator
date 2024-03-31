@@ -38,8 +38,8 @@ Here are the methods provided by the library:
 
    ```xml
    <dependency>
-       <groupId>com.abreviator</groupId>
-       <artifactId>Abreveiator-gestor</artifactId>
+       <groupId>org.abreviator</groupId>
+       <artifactId>Abreviator</artifactId>
        <version>1.0-SNAPSHOT</version>
    </dependency>
    
